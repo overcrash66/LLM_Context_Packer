@@ -38,20 +38,20 @@ You can use either `llm-context-packer` or the shorter alias `repomix`.
 ### Basic Usage
 Run in your project root. It automatically copies to clipboard.
 ```bash
-repomix .
+llm-context-packer .
 ```
 
 ### Options
 
 ```bash
 # Don't copy to clipboard, just print to stdout
-repomix . --no-copy
+llm-context-packer . --no-copy
 
 # Write to a file instead of clipboard
-repomix . --output context.txt
+llm-context-packer . --output context.txt
 
 # Verbose mode (see what files are being packed)
-repomix . --verbose
+llm-context-packer . --verbose
 ```
 
 ## 📝 Output Format
