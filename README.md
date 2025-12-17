@@ -17,7 +17,7 @@ When working with LLMs (ChatGPT, Claude, Gemini), context is everything. You oft
 ## 📦 Installation
 
 ```
-pip install LLM_Context_Packer
+pip install llm-context-packer
 ```
 
 Or manually:
@@ -33,7 +33,7 @@ pip install .
 
 ## 🛠 Usage
 
-You can use either `LLM_Context_Packer` or the shorter alias `repomix`.
+You can use either `llm-context-packer` or the shorter alias `repomix`.
 
 ### Basic Usage
 Run in your project root. It automatically copies to clipboard.
