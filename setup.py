@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="llm-context-packer",
-    version="0.1.0",
+    version="0.1.1",
     packages=find_packages(),
     install_requires=[
         "typer[all]>=0.9.0",
