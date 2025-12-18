@@ -13,7 +13,6 @@ setup(
     entry_points={
         "console_scripts": [
             "llm-context-packer=llm_context_packer.main:app",
-            "repomix=llm_context_packer.main:app",
         ],
     },
 )

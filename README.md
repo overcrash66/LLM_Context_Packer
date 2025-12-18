@@ -1,6 +1,6 @@
-# LLM Context Packer (Repomix)
+# LLM Context Packer
 
-> "Stop manually opening 15 files and copy-pasting them one by one. Repomix packs your entire codebase into a single AI-ready prompt in <1 second."
+> "Stop manually opening 15 files and copy-pasting them one by one. LLM Context Packer packs your entire codebase into a single AI-ready prompt in <1 second."
 
 **Turn your entire codebase into a single prompt-ready text file.**
 
@@ -33,7 +33,7 @@ pip install .
 
 ## 🛠 Usage
 
-You can use either `llm-context-packer` or the shorter alias `repomix`.
+You can use `llm-context-packer`.
 
 ### Basic Usage
 Run in your project root. It automatically copies to clipboard.

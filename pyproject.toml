@@ -25,4 +25,3 @@ dependencies = [
 
 [project.scripts]
 llm-context-packer = "llm_context_packer.main:app"
-repomix = "llm_context_packer.main:app" # Alias for convenience as per original plan
